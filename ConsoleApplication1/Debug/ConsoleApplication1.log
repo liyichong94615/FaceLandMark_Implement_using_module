@@ -1,0 +1,44 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Administrator\source\repos\ConsoleApplication1 - 副本\ConsoleApplication1\ConsoleApplication1.cpp(79,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\ConsoleApplication1 - 副本\ConsoleApplication1\ConsoleApplication1.cpp(143,141): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\source\repos\ConsoleApplication1 - 副本\ConsoleApplication1\ConsoleApplication1.cpp(143,101): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\source\repos\ConsoleApplication1 - 副本\ConsoleApplication1\ConsoleApplication1.cpp(144,144): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\source\repos\ConsoleApplication1 - 副本\ConsoleApplication1\ConsoleApplication1.cpp(144,103): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\source\repos\ConsoleApplication1 - 副本\ConsoleApplication1\ConsoleApplication1.cpp(218,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\ConsoleApplication1 - 副本\ConsoleApplication1\ConsoleApplication1.cpp(280,137): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\source\repos\ConsoleApplication1 - 副本\ConsoleApplication1\ConsoleApplication1.cpp(280,97): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\source\repos\ConsoleApplication1 - 副本\ConsoleApplication1\ConsoleApplication1.cpp(281,140): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\source\repos\ConsoleApplication1 - 副本\ConsoleApplication1\ConsoleApplication1.cpp(281,99): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  ConsoleApplication1.vcxproj -> C:\Users\Administrator\source\repos\ConsoleApplication1 - 副本\Debug\ConsoleApplication1.exe
